@@ -4,6 +4,15 @@
 
 `Version 1.6.2 with lnd 0.11.1 and bitcoin 0.20.0 (or litecoin 0.18.1)`
 
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 ![RaspiBlitz](pictures/raspiblitz.jpg)
 
 **The RaspiBlitz is a do-it-yourself Lightning Node based on LND running together with a Bitcoin-Fullnode on a RaspberryPi 3/4 - with an HDD/SSD and a nice display for easy setup & monitoring.**
